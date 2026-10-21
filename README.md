@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:1e3a8a,50:7c3aed,100:dc2626&text=HENRIQUE%20MARTINS&fontColor=ffffff&fontSize=72&fontAlignY=42&animation=fadeIn&stroke=ffffff&strokeWidth=1&desc=IT%20TECHNICIAN%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20INFRASTRUCTURE&descAlignY=66&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1e3a8a,50:7c3aed,100:dc2626&text=HENRIQUE%20MARTINS&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=IT%20TECHNICIAN%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20INFRASTRUCTURE&descAlignY=60&descSize=20" width="100%"/>
 
 <a href="https://github.com/HenriqueShowOriginal">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=800&height=60&lines=HI%2C+I'M+HENRIQUE+MARTINS+%F0%9F%91%8B;HENRIQUE+%E2%80%A2+HARDWARE+%F0%9F%94%A7;HENRIQUE+%E2%80%A2+PROXMOX+%F0%9F%96%A5%EF%B8%8F;HENRIQUE+%E2%80%A2+BUILDING+JARVIS+%F0%9F%A4%96" alt="HENRIQUE MARTINS" />
@@ -166,6 +166,6 @@ Catalogue updates and organisation
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=THANKS+FOR+VISITING+%E2%80%94+HENRIQUE+MARTINS" alt="Thanks for visiting" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=160&section=footer&color=0:dc2626,50:7c3aed,100:1e3a8a&text=HENRIQUE&fontColor=ffffff&fontSize=50&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:dc2626,50:7c3aed,100:1e3a8a&text=HENRIQUE&fontColor=ffffff&fontSize=50&fontAlignY=68&animation=fadeIn" width="100%"/>
 
 </div>
