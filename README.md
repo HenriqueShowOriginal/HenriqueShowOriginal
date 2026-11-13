@@ -1,26 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1e3a8a,50:7c3aed,100:dc2626&text=HENRIQUE%20MARTINS&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=IT%20TECHNICIAN%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20INFRASTRUCTURE&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1e3a8a,50:7c3aed,100:dc2626&text=HENRIQUE%20MARTINS&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=IT%20TECHNICIAN%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20INFRASTRUCTURE&descAlignY=60&descSize=20" width="100%" alt="Henrique Martins — IT technician, hardware, infrastructure"/>
 
-<a href="https://github.com/HenriqueShowOriginal">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=800&height=60&lines=HI%2C+I'M+HENRIQUE+MARTINS+%F0%9F%91%8B;HENRIQUE+%E2%80%A2+HARDWARE+%F0%9F%94%A7;HENRIQUE+%E2%80%A2+PROXMOX+%F0%9F%96%A5%EF%B8%8F;HENRIQUE+%E2%80%A2+BUILDING+JARVIS+%F0%9F%A4%96" alt="HENRIQUE MARTINS" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=800&height=60&lines=HI%2C+I'M+HENRIQUE+MARTINS+%F0%9F%91%8B;HENRIQUE+%E2%80%A2+HARDWARE+%F0%9F%94%A7;HENRIQUE+%E2%80%A2+PROXMOX+%F0%9F%96%A5%EF%B8%8F;HENRIQUE+%E2%80%A2+BUILDING+JARVIS+%F0%9F%A4%96" alt="Hi, I'm Henrique Martins — hardware, Proxmox, building JARVIS" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/henrique-martins-b07641330/"><img src="https://img.shields.io/badge/LinkedIn-Henrique%20Martins-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitch.tv/henriquesshow"><img src="https://img.shields.io/badge/Twitch-HenriquesShow-7c3aed?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Based%20in-Luxembourg%20%F0%9F%87%B1%F0%9F%87%BA-dc2626?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/henrique-martins-b07641330/"><img src="https://img.shields.io/badge/LinkedIn-Henrique%20Martins-1e3a8a?style=for-the-badge" alt="LinkedIn: Henrique Martins"/></a>
+<a href="https://twitch.tv/henriquesshow"><img src="https://img.shields.io/badge/Twitch-HenriquesShow-7c3aed?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch: HenriquesShow"/></a>
+<img src="https://img.shields.io/badge/Based%20in-Luxembourg%20%F0%9F%87%B1%F0%9F%87%BA-dc2626?style=for-the-badge" alt="Based in: Luxembourg"/>
 
 <img src="https://komarev.com/ghpvc/?username=HenriqueShowOriginal&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="profile views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1e3a8a,50:7c3aed,100:dc2626" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1e3a8a,50:7c3aed,100:dc2626" width="100%" alt=""/>
 
 <div align="center">
 
-## 👨‍💻 WHO IS HENRIQUE?
+## 👨‍💻 ABOUT ME
 
 I'm **Henrique Martins**, an IT technician from **Luxembourg** 🇱🇺<br/>
 passionate about **hardware**, **infrastructure** and **self-hosting**.
@@ -34,39 +32,38 @@ passionate about **hardware**, **infrastructure** and **self-hosting**.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:dc2626,50:7c3aed,100:1e3a8a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:dc2626,50:7c3aed,100:1e3a8a" width="100%" alt=""/>
 
 <div align="center">
 
-## 🛠️ HENRIQUE'S TECH STACK
+## 🛠️ TECH STACK
 
 **Infrastructure & Systems**<br/>
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-1e3a8a?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-7c3aed?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-dc2626?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Synology-1e3a8a?style=for-the-badge&logo=synology&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nextcloud-7c3aed?style=for-the-badge&logo=nextcloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailscale-dc2626?style=for-the-badge&logo=tailscale&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
+<img src="https://img.shields.io/badge/Linux-1e3a8a?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Windows-7c3aed?style=for-the-badge" alt="Windows"/>
+<img src="https://img.shields.io/badge/Azure-dc2626?style=for-the-badge" alt="Azure"/>
+<img src="https://img.shields.io/badge/Synology-1e3a8a?style=for-the-badge&logo=synology&logoColor=white" alt="Synology"/>
+<img src="https://img.shields.io/badge/Nextcloud-7c3aed?style=for-the-badge&logo=nextcloud&logoColor=white" alt="Nextcloud"/>
+<img src="https://img.shields.io/badge/Tailscale-dc2626?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale"/>
 
 **Code**<br/>
-<img src="https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude%20API-dc2626?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Claude%20API-dc2626?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"/>
 
 **Streaming, Web & Gaming**<br/>
-<img src="https://img.shields.io/badge/OBS%20Studio-1e3a8a?style=for-the-badge&logo=obsstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Twitch-7c3aed?style=for-the-badge&logo=twitch&logoColor=white"/>
-<img src="https://img.shields.io/badge/WooCommerce-dc2626?style=for-the-badge&logo=woocommerce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Minecraft%20Server-1e3a8a?style=for-the-badge&logo=minecraft&logoColor=white"/>
+<img src="https://img.shields.io/badge/OBS%20Studio-1e3a8a?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio"/>
+<img src="https://img.shields.io/badge/WooCommerce-dc2626?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce"/>
+<img src="https://img.shields.io/badge/Minecraft%20Server-1e3a8a?style=for-the-badge" alt="Minecraft Server"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1e3a8a,50:7c3aed,100:dc2626" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:1e3a8a,50:7c3aed,100:dc2626" width="100%" alt=""/>
 
 <div align="center">
 
-## 🚀 PROJECTS BY HENRIQUE
+## 🚀 PROJECTS
 
 </div>
 
@@ -75,13 +72,13 @@ passionate about **hardware**, **infrastructure** and **self-hosting**.
 <td width="50%" valign="top" align="center">
 
 ### 🤖 [JARVIS](https://github.com/HenriqueShowOriginal/JARVIS-)
-**Personal AI desktop assistant powered by Claude**
+**Personal AI desktop assistant running on a local LLM (Ollama)**
 
-Voice wake word · speech-to-text & TTS<br/>
+Optional voice input · neural TTS<br/>
 Controls the PC: apps, files, commands<br/>
-Lightweight SQLite memory · self-updates
+Lightweight SQLite memory · updates from GitHub
 
-`Python` · `Claude API` · `SQLite`
+`Python` · `Ollama` · `SQLite`
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -103,9 +100,9 @@ Nextcloud · remote access via Tailscale
 ### 🏢 Proxmox Server
 **Professional project — electronics repair & retail shop, Luxembourg**
 
-Sole admin: install, config, maintenance<br/>
+Installation, configuration, maintenance<br/>
 Services in VMs and containers<br/>
-Hosts internal projects, incl. a game server
+Hosts internal services and projects
 
 `Proxmox VE` · `Virtualisation` · `Sysadmin`
 
@@ -113,7 +110,7 @@ Hosts internal projects, incl. a game server
 <td width="50%" valign="top" align="center">
 
 ### ⛏️ Public Modded Minecraft Server
-**Open to everyone, hosted on a Proxmox server I manage**
+**Open to everyone, self-hosted on Proxmox**
 
 Isolated in its own container<br/>
 Web management with Crafty Controller<br/>
@@ -153,19 +150,12 @@ Catalogue updates and organisation
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:dc2626,50:7c3aed,100:1e3a8a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:dc2626,50:7c3aed,100:1e3a8a" width="100%" alt=""/>
 
 <div align="center">
 
-## 📊 HENRIQUE'S GITHUB STATS
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HenriqueShowOriginal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=dc2626&text_color=c9d1d9&custom_title=Henrique%27s%20GitHub%20Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueShowOriginal&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9"/>
-
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=THANKS+FOR+VISITING+%E2%80%94+HENRIQUE+MARTINS" alt="Thanks for visiting" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:dc2626,50:7c3aed,100:1e3a8a&text=HENRIQUE&fontColor=ffffff&fontSize=50&fontAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:dc2626,50:7c3aed,100:1e3a8a&text=HENRIQUE&fontColor=ffffff&fontSize=50&fontAlignY=68&animation=fadeIn" width="100%" alt=""/>
 
 </div>
